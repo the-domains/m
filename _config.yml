@@ -1,6 +1,6 @@
 name: m
 favicon: null
-layout_spectrum: 0.6046219996642321
+layout_spectrum: 0.72489
 typography_spectrum: 0.24581903335638344
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#1e1623'
+    - '#c2b0ac'
+    - '#86716e'
+    - '#433238'
+    - '#eeeaeb'
   brandStrength: 0.7420302818063647
-  lightness: 0.9936563419178128
-  saturation: 0.2161583777051419
-  rhythmicContrast: 0.0957589210011065
+  lightness: 0.9375
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
